@@ -1,0 +1,6 @@
+package com.example.testheal;
+
+import io.flutter.embedding.android.FlutterActivity;
+
+public class MainActivity extends FlutterActivity {
+}
